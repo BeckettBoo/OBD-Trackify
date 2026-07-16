@@ -12,5 +12,3 @@ The goal is to map localized wireless architecture and audit signal spillover to
 * **Storage:** Localized cryptographic logging to an onboard SPI MicroSD module.
 * **Analytics Dashboard:** A custom web UI using Leaflet.js to filter and visualize network risk profiles on an interactive map.
 
----
-*Developed in collaboration with a Red Team security researcher. Firmware initialization scripts dropping soon.*
